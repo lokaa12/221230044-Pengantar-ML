@@ -1,4 +1,4 @@
-**##221230044 - Pengantar Machine Learning [ML]**
+ ## 221230044 - Pengantar Machine Learning [ML]
 
 Repository untuk mata kuliah Pengantar Machine Learning - Putri Sapela Loka Sari - 221230044
 **Nama: Putri Sapela Loka Sari** 
