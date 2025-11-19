@@ -13,4 +13,6 @@ Repository ini berisi semua tugas, proyek, dan catatan untuk mata kuliah Pengant
 - **Minggu 2:**[Pratikum 2-Numpy](https://colab.research.google.com/gist/lokaa12/36aa268cf00b2547945a046685428fbd/praktikum_2_numpy_putri_sapela_loka_sari_221230044.ipynb)
 - **Minggu 2:**[Pratikum 3-Pandas](https://colab.research.google.com/gist/lokaa12/c6d841bd5fee11dd6b7da5a70a99f917/praktikum_3_pandas_putri_sapela_loka_sari_221230044.ipynb)
 - **Minggu 2:**[Pratikum 4-Tensor](https://colab.research.google.com/gist/lokaa12/9aab8eb7d90cb0f2928820230ee9a88a/praktikum_4_tensor_putri_sapela_loka_sari_221230044.ipynb)
+- **Minggu 6:**[praktikum_5_clustering](https://colab.research.google.com/gist/lokaa12/3092191934fba499ff46a996c669b79d/praktikum_5_clustering_putri-sapela-loka-sari_221230044.ipynb)
+- **Minggu 6:**[praktikum_6_pca](https://colab.research.google.com/gist/lokaa12/1e63a1eebb7cefae4824a9f9f8469e10/praktikum_6_pca_putri_sapela_loka_sari_221230044.ipynb)
 
